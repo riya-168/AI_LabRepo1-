@@ -10,13 +10,15 @@ This guide provides step-by-step instruction to set up Python for AI development
 ## Installing Python (windows)
 
 1.Visit the official [Python website ](https://www.python.org/downloads/).
+
 2.From download section choose the latest version for your operating system. 
+
 3.After clicking download it may show **Files** section.
   - From the **Files** section select **windows installer** 64 or 32 bit according to your system.
   - If this **Files** section not showing it will start downloading while you clicked download option.
 
-3.After finish download,Double click or open the downloaded file ,click the below both checked box and ensure the option **Add python.exe to PATH** is checked.
-4.Verify the installation by opening the terminal or command prompt by typing:
+4.After finish download,Double click or open the downloaded file ,click the below both checked box and ensure the option **Add python.exe to PATH** is checked.
+5.Verify the installation by opening the terminal or command prompt by typing:
 ```bash
 python --version
 ```
